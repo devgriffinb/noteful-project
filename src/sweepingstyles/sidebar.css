@@ -1,0 +1,30 @@
+.item {
+    flex: 1;
+  }
+  
+  .selected-folder {
+    background-color: #3f1a33;
+  }
+  
+  .sidebar li {
+    font-size: 25px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+  }
+  
+  .sidebar ul {
+    margin-bottom: 0;
+  }
+  
+  .sidebar button {
+    margin: 0 auto;
+    width: 90%;
+  }
+  
+  
+  @media all and (min-width:800px) {
+    h2 {
+      margin-left: 65px;
+      font-size: 45px;
+    }
+  }

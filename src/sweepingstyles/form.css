@@ -1,0 +1,33 @@
+form {
+    margin-top: 35px;
+}
+
+form input, form button {
+    display: block;
+    margin: auto;
+    border-radius: 5px;
+}
+
+input {
+    padding: 5px;
+}
+
+fieldset {
+    width: 85%;
+    margin: auto;
+    background-color: #1522229a;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding-bottom: 20px;
+}
+
+legend {
+    font-size: 25px;
+    padding: 5px 45px;
+    background-color: #3f1a33;
+    border-radius: 5px;
+}
+
+label {
+    font-size: 20px;
+}

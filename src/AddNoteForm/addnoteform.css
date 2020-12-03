@@ -1,0 +1,17 @@
+textarea {
+    display: block;
+    margin: 5px auto 15px auto;
+    width: 75%;
+    height: 200px;
+    border-radius: 5px;
+}
+
+label {
+    display: block;
+    margin: 10px;
+}
+
+select {
+    border-radius: 5px;
+    padding: 5px;
+}
